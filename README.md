@@ -1,2 +1,2 @@
 # pyhton-lanng
-pyhtion
+python
