@@ -5,8 +5,6 @@ pyhton
 python
 python
 pyhton
-pyhto
-
 pyhton
 python
 vvpython
