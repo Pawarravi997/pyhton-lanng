@@ -9,7 +9,6 @@ pyhton
 python
 python
 pyhton
-pyhton
 python
 vvpython
 pyhton
