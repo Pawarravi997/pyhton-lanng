@@ -6,7 +6,6 @@ python
 python
 pyhton
 python
-vvpython
 pyhton
 pyhton
 python
