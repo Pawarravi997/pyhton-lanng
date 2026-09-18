@@ -2,13 +2,7 @@
 python
 python
 pyhton
-python
-python
-pyhton
-python
-python
-python
-python
+py
 python
 pyhton
 python
