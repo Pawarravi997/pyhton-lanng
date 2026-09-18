@@ -3,9 +3,7 @@ python
 python
 pyhton
 python
-python
-python
-pyhton
+pythonpyhton
 python
 python
 python
