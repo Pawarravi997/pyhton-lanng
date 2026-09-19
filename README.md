@@ -6,9 +6,4 @@ ypython
 pyhton
 python
 python
-pthon
-python
-python
-pyhton
-python
-python
+\
