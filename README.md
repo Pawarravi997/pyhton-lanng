@@ -8,3 +8,9 @@ python
 python
 \
 7777\
+pthon
+python
+python
+pyhton
+python
+python
