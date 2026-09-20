@@ -6,8 +6,6 @@ ypython
 pyhton
 python
 python
-\
-7777\
 pthon
 python
 python
