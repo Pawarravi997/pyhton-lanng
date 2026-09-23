@@ -5,11 +5,6 @@ python
 pyhton
 pyhton
 pyhton
-python
-pyhton
-python
-python
-python
 pyhton
 pyhton
 pyhton
