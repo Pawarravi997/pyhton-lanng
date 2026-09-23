@@ -6,7 +6,6 @@ pyhton
 pyhton
 pyhton
 pyhton
-ython
 python
 pyhton
 python
