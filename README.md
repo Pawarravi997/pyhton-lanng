@@ -6,13 +6,6 @@ pyhton
 pyhton
 pyhton
 pyhton
-pyhton
-pyhton
-ython
-python
-pyhton
-python
-python
 python
 pyhton
 pyhton
