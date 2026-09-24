@@ -7,7 +7,5 @@ pyhton
 pyhton
 pyhton
 python
-pyhton
-
 
 
