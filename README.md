@@ -4,9 +4,6 @@ python
 pyhton
 
 pyhton
-x
-pyhtonpyhton
-pyhton
 pyhton
 python
 
