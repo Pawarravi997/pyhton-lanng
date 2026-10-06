@@ -10,7 +10,6 @@ pyhton
 python
 pyhton
 python
-hon
 pyhton
 pyhton
 python
