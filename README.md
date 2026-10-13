@@ -1,8 +1,6 @@
 # pyhton-lanng
 pyhton
 python
-pyhton
-python
 python
 pyhton
 pyhton
