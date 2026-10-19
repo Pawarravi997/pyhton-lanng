@@ -2,10 +2,7 @@
 pyhton
 python
 python
-pyhton
-pyhton
-python
-
+pyhto
 pytho
 pyhton
 python
