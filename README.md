@@ -15,5 +15,3 @@ python
 pyhton
 python
 pyhton
-pyhton
-python
