@@ -8,13 +8,6 @@ pyhton
 python
 python
 python
-pyhton
-  cpython
-  
-pyhton
-
-
-
 python
 pyhton
 python
